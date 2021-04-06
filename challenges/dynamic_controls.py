@@ -36,7 +36,7 @@ class DynamicControls(unittest.TestCase):
 
         enable_disable_button.click()
 
-        
+         
     def tearDown(self):
         self.driver.close()
 
